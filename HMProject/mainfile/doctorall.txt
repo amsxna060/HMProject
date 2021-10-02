@@ -1,0 +1,19 @@
+                                         
+
+
+
+
+
+
+                                                      *******************************************************************************
+                                                                          DIGITAL WELL BEING HOSPITAL MANAGEMENT SYSTEM
+                                                      *******************************************************************************
+
+                                     ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+              		       
+                               S NO.  	     NAME OF Doctor       DATE OF BIRTH 	AGE 	      ADDRESS        HIGHEST DEGREE    SPECIAL DEGREE    CONTACT NO. 	 EMAIL      
+
+
+                                 1.    Dr Amol Saxena Saxena       12/04/1789           :Ram nagar Firozabad Firozabad        MBBS            MD        7485961304   amolsaxena060@gmail.com
+

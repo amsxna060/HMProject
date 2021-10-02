@@ -1,0 +1,35 @@
+                                                                                                                                                                                      Press (Ctrl+C) to close(^_^)
+
+
+
+
+                                                                 *******************************************************************************
+                                                                                  DIGITAL WELL BEING HOSPITAL MANAGEMENT SYSTEM
+                                                                 *******************************************************************************
+
+                                              ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+
+
+                                                                                                  1.Add a Docter
+                                                                                                  2.Add a recepnist
+                                                                                                  3.Detail of any Docter
+                                                                                                  4.Detail of any receptionist 
+                                                                                                  5.Detail of all Doctor in Hospital
+                                                                                                  6.Detail of all Receptionist in Hospital
+                                                                                                  7.Remove a Docter
+                                                                                                  8.Remove a Receptionist
+                                                                                                  9.Log Out 
+
+
+                                                                                  
+
+
+
+
+
+
+                                                                                                                                                                    
+                                                ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
